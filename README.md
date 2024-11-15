@@ -1,9 +1,34 @@
-### Olá eu sou o Hudson
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hudson_marques01/)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-marques-002014300/)
+# Olá, eu sou Hudson 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudTheFato&hide_progress=true)
+Desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em [suas linguagens/frameworks principais, como Python, JavaScript, React, etc.]. Sempre em busca de aprender e compartilhar conhecimento.
 
-[![Hudson Marques GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HudTheFato&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/HudTheFato/github-readme-stats#gh-dark-mode-only)
-[![Hudson Marques GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HudTheFato&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/HudTheFato/github-readme-stats#gh-light-mode-only)
+## 🚀 Tecnologias e Ferramentas
+
+- Linguagens: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Ferramentas: Git, Docker, VSCode
+
+## 🌱 Atualmente aprendendo
+
+- [Tecnologia ou linguagem que você está estudando]
+- [Outra tecnologia ou conceito]
+
+## 📫 Como me encontrar
+
+- hudsonborges64@gmail.com
+- [LinkedIn](h[ttps://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/hudson-marques-002014300/))
+
+## 🔧 Projetos em Destaque
+
+- [Nome do Projeto 1](link-do-repositorio): Breve descrição do que o projeto faz.
+- [Nome do Projeto 2](link-do-repositorio): Breve descrição do que o projeto faz.
+- [Nome do Projeto 3](link-do-repositorio): Breve descrição do que o projeto faz.
+
+## 🌟 Contribuições
+
+Estou sempre aberto a colaborar em projetos open source. Se você tiver uma ideia ou um projeto em mente, fique à vontade para me contatar!
+
+---
+
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
 
