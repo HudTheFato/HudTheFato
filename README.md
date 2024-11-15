@@ -1,22 +1,30 @@
 # Olá, eu sou Hudson 👋
 
-Desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em [suas linguagens/frameworks principais, como Python, JavaScript, React, etc.]. Sempre em busca de aprender e compartilhar conhecimento.
+Estudante de Desenvolvimento de Software voltado ao FullStack, atualmente focando em banco de dados SQL e NoSQL.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Linguagens: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Ferramentas: Git, Docker, VSCode
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 ## 🌱 Atualmente aprendendo
 
-- [Tecnologia ou linguagem que você está estudando]
-- [Outra tecnologia ou conceito]
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 
 ## 📫 Como me encontrar
 
 - hudsonborges64@gmail.com
-- [LinkedIn](h[ttps://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/hudson-marques-002014300/))
+- ttps://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/hudson-marques-002014300/)
 
 ## 🔧 Projetos em Destaque
 
