@@ -19,7 +19,7 @@ Estudante de Desenvolvimento de Software voltado ao FullStack, atualmente focand
 
 ## 🌱 Atualmente aprendendo
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## 📫 Como me encontrar
 
