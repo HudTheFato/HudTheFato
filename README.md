@@ -4,22 +4,41 @@ Estudante de Desenvolvimento de Software voltado ao FullStack, atualmente focand
 
 ## 🚀 Tecnologias e Ferramentas
 
-- <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" width="30px" style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="30px" style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
-- <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="50%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img   align="left"
+  width="30px"
+  style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 
 ## 🌱 Atualmente aprendendo
 
-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+-   <img   align="left" width="30px" style="padding-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
 ## 📫 Como me encontrar
 
