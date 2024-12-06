@@ -17,8 +17,7 @@ Estudante de Desenvolvimento de Software voltado ao FullStack, atualmente focand
 ## 🔧 Projetos em Destaque
 
 - [Cadastro Clientes](https://github.com/HudTheFato/CadastroClientes.git): Cadastro de clientes em Java, Projeto back-end para mecanica.
-- [Nome do Projeto 2](link-do-repositorio): Breve descrição do que o projeto faz.
-- [Nome do Projeto 3](link-do-repositorio): Breve descrição do que o projeto faz.
+- [Biblioteca Publica](https://github.com/HudTheFato/BibliotecaPublica.git): Projeto em MySQL de banco de dados de uma biblioteca.
 
 ## 🌟 Contribuições
 
