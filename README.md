@@ -18,6 +18,7 @@ Estudante de Desenvolvimento de Software voltado ao FullStack, atualmente focand
 
 - [Cadastro Clientes](https://github.com/HudTheFato/CadastroClientes.git): Cadastro de clientes em Java, Projeto back-end para mecanica.
 - [Biblioteca Publica](https://github.com/HudTheFato/BibliotecaPublica.git): Projeto em MySQL de banco de dados de uma biblioteca.
+- [Sistema de Consulta Odontológica](https://github.com/HudTheFato/SistemaConsultaOdontologica.git): Projeto em Java, back-end de uma clinica odontologica.
 
 ## 🌟 Contribuições
 
